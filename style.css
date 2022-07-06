@@ -172,7 +172,7 @@ footer {
   padding-bottom: 30px;
 }
 .footer-head {
-  font-family: 30px;
+  font-size: 20px;
   font-weight: 600;
   color: orangered;
   text-align: center;
@@ -181,7 +181,7 @@ footer {
 }
 
 .footer-para {
-  font-family: 14px;
+  font-size: 12px;
   text-align: center;
   color: #fff;
 }
